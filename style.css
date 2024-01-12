@@ -1,0 +1,10 @@
+.body{
+    background-color: #414535;
+    min-height: 100vh;
+    width: 100%;
+    color: white;
+    padding: 2rem 0;
+}
+.bg-color{
+    background-color: #618985!important;
+}
